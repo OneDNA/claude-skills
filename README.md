@@ -13,6 +13,7 @@ claude-skills/
   meta/            # Skill discovery and management
   planning/        # Design reviews, PRDs, decision grilling
   power-bi/        # Power BI semantic models, DAX, reports, deployment
+  productivity/    # Note-taking, knowledge management, personal tools
   testing/         # TDD, Playwright, diagnosis, validation
 ```
 
@@ -84,6 +85,12 @@ claude-skills/
 | `power-bi-security` | Configure RLS roles, object-level security, and perspectives |
 | `power-bi-themes` | Apply themes, conditional formatting, and styling |
 | `power-bi-visuals` | Add, bind, update, and bulk-manage report visuals |
+
+### productivity
+
+| Skill | Description |
+|---|---|
+| `obsidian` | Manage Obsidian vaults, notes, tags, frontmatter, daily notes, backup, and sync |
 
 ### testing
 
