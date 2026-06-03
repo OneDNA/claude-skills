@@ -113,3 +113,9 @@ Or add this repo as a git submodule:
 git submodule add https://github.com/OneDNA/claude-skills.git claude-skills
 git submodule update --init --recursive
 ```
+
+## Contributing
+
+This repo requires a pull request to merge into `main` (1 approving review).
+
+> **Note:** Branch protection is only available on public repos or with GitHub Pro. This repo is currently public to enable it. If it is made private in the future, GitHub Pro will be required to maintain branch protection.
