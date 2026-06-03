@@ -1,26 +1,90 @@
 {
-  "name": "company-tools",
+  "name": "claude-skills",
   "owner": {
-    "name": "DevTools Team",
-    "email": "devtools@onedna.nl"
+    "name": "OneDNA",
+    "email": "sven.relijveld@onedna.nl"
   },
   "plugins": [
     {
-      "name": "code-formatter",
-      "source": "./plugins/formatter",
-      "description": "Automatic code formatting on save",
-      "version": "2.1.0",
+      "name": "architecture",
+      "source": "./architecture",
+      "description": "Codebase understanding, diagrams, and schema design",
+      "version": "1.0.0",
       "author": {
-        "name": "DevTools Team"
+        "name": "OneDNA"
       }
     },
     {
-      "name": "deployment-tools",
-      "source": {
-        "source": "github",
-        "repo": "company/deploy-plugin"
-      },
-      "description": "Deployment automation tools"
+      "name": "devops",
+      "source": "./devops",
+      "description": "CI/CD, security scanning, and dependency management",
+      "version": "1.0.0",
+      "author": {
+        "name": "OneDNA"
+      }
+    },
+    {
+      "name": "docs",
+      "source": "./docs",
+      "description": "Documentation generation and updates",
+      "version": "1.0.0",
+      "author": {
+        "name": "OneDNA"
+      }
+    },
+    {
+      "name": "frontend",
+      "source": "./frontend",
+      "description": "UI design, prototyping, and design-to-code pipelines",
+      "version": "1.0.0",
+      "author": {
+        "name": "OneDNA"
+      }
+    },
+    {
+      "name": "meta",
+      "source": "./meta",
+      "description": "Skill discovery and management",
+      "version": "1.0.0",
+      "author": {
+        "name": "OneDNA"
+      }
+    },
+    {
+      "name": "planning",
+      "source": "./planning",
+      "description": "Design reviews, PRDs, and decision grilling",
+      "version": "1.0.0",
+      "author": {
+        "name": "OneDNA"
+      }
+    },
+    {
+      "name": "power-bi",
+      "source": "./power-bi",
+      "description": "Power BI semantic models, DAX, reports, and deployment",
+      "version": "1.0.0",
+      "author": {
+        "name": "OneDNA"
+      }
+    },
+    {
+      "name": "productivity",
+      "source": "./productivity",
+      "description": "Note-taking, knowledge management, and personal tools",
+      "version": "1.0.0",
+      "author": {
+        "name": "OneDNA"
+      }
+    },
+    {
+      "name": "testing",
+      "source": "./testing",
+      "description": "TDD, Playwright, diagnosis, and validation",
+      "version": "1.0.0",
+      "author": {
+        "name": "OneDNA"
+      }
     }
   ]
 }
