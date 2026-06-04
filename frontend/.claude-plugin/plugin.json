@@ -1,0 +1,8 @@
+{
+  "name": "frontend",
+  "description": "UI design, prototyping, and design-to-code pipelines",
+  "version": "1.0.0",
+  "author": {
+    "name": "OneDNA"
+  }
+}
