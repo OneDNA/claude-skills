@@ -1,0 +1,8 @@
+{
+  "name": "testing",
+  "description": "TDD, Playwright, diagnosis, and validation",
+  "version": "1.0.0",
+  "author": {
+    "name": "OneDNA"
+  }
+}
