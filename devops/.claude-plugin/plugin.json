@@ -1,0 +1,8 @@
+{
+  "name": "devops",
+  "description": "CI/CD, security scanning, and dependency management",
+  "version": "1.0.0",
+  "author": {
+    "name": "OneDNA"
+  }
+}
