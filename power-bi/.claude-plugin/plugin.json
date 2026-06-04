@@ -1,0 +1,8 @@
+{
+  "name": "power-bi",
+  "description": "Power BI semantic models, DAX, reports, and deployment",
+  "version": "1.0.0",
+  "author": {
+    "name": "OneDNA"
+  }
+}
