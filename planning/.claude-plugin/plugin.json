@@ -1,0 +1,8 @@
+{
+  "name": "planning",
+  "description": "Design reviews, PRDs, and decision grilling",
+  "version": "1.0.0",
+  "author": {
+    "name": "OneDNA"
+  }
+}
